@@ -64,6 +64,4 @@ cuts_under_30 = [hairstyles[i] for i in range(len(prices)) if prices[i] < 30 ]
 print(cuts_under_30)
 ```
 
-Summarry
-= 
 
