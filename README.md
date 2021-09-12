@@ -35,7 +35,7 @@ Total Revenue: 1085
 155.0
 ['pixie', 'crew', 'bowl']
 ```
-[Script]()
+[Script](https://github.com/Fran0616/carlyClippers/blob/main/carlyClippers.py)
 =
 ```
 hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
